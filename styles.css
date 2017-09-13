@@ -1,0 +1,18 @@
+body {
+    background-color: Orange;
+}
+h1 {
+    background-color: #FFB900;
+}
+p {
+    background-color: rgb(255,0,255);
+}
+body {
+    color: blue;
+}
+h1 {
+    color: green;
+}
+.intro { 
+    background-color: yellow;
+}
